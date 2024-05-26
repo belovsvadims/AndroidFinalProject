@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="gd.rf.konggdev.cookieclicker"
+4    android:versionCode="1"
+5    android:versionName="1.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:5:1-30:15
+12        android:allowBackup="true"
+12-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:6:5-31
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.2] C:\Users\tekso\.gradle\caches\transforms-2\files-2.1\0288a8aab631773614f54c3f4d4ca2e2\core-1.3.2\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:7:5-39
+17        android:label="@string/app_name"
+17-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:8:5-37
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:9:5-50
+19        android:supportsRtl="true"
+19-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:10:5-31
+20        android:testOnly="true"
+21        android:theme="@style/Theme.CookieClicker" >
+21-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:11:5-47
+22        <activity android:name="gd.rf.konggdev.cookieclicker.MainActivity" >
+22-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:12:5-17:16
+22-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:12:15-71
+23            <intent-filter>
+23-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:13:9-16:25
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:14:13-65
+24-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:14:21-62
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:15:13-73
+26-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:15:23-70
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="gd.rf.konggdev.cookieclicker.UpgradesActivity" >
+29-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:18:5-20:16
+29-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:18:15-75
+30        </activity>
+31        <activity android:name="gd.rf.konggdev.cookieclicker.GadgetsActivity" >
+31-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:21:5-23:16
+31-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:21:15-74
+32        </activity>
+33        <activity android:name="gd.rf.konggdev.cookieclicker.BakeryActivity" >
+33-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:24:5-26:16
+33-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:24:15-73
+34        </activity>
+35        <activity android:name="gd.rf.konggdev.cookieclicker.SettingsActivity" >
+35-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:27:5-29:16
+35-->C:\GitHub_Projects\2345\OpenCookieClicker\Cookie Clicker +\src\main\AndroidManifest.xml:27:15-75
+36        </activity>
+37    </application>
+38
+39</manifest>

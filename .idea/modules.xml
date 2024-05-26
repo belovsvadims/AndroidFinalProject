@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CookieClicker.iml" filepath="$PROJECT_DIR$/.idea/modules/CookieClicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.iml" filepath="$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Cookie Clicker +/CookieClicker.Cookie_Clicker_+.unitTest.iml" />
+    </modules>
+  </component>
+</project>
